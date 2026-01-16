@@ -117,17 +117,7 @@ pip install -r requirements.txt
 
 ```
 
-## 📝 引用 (Citation)
 
-```bibtex
-@article{ClimateRisk2024,
-  title={基于大语言模型的 A 股上市公司气候风险测度研究},
-  author={Your Name},
-  year={2026},
-  school={Southwestern University of Finance and Economics}
-}
-
-```
 
 ## 🤝 致谢 (Acknowledgments)
 
